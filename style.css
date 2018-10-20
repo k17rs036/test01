@@ -1,0 +1,33 @@
+body{
+background:#E6E6FA;
+}
+h1{
+font-size:1.6em;
+border:inset 1px #4169e1;
+}
+li:first-letter{
+font-weight:bold;
+color:bule;
+}
+h2{
+font-style:oblique;
+color:green;
+}
+h4{
+box-shadow: 10px 10px;
+}
+h3{
+font-family:serif;
+}
+f1{
+font-family: "Yu Gothic";
+color:purple;
+}
+f2{
+font-family: "Yu Mincho";
+color: #2f4f4f;
+}
+h1{
+font-style:italic;
+color:blue;
+}
